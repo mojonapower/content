@@ -41,7 +41,7 @@ En el siguiente ejemplo se está declarando la variable `message` del tipo `stri
 
 ```javascript
 let message: string;
-message: 'Conociendo TypeScript';
+message = 'Conociendo TypeScript';
 ```
 
 
